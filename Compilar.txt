@@ -1,0 +1,1 @@
+g++ -o Blackjack Main.cpp Juego.cpp Jugador.cpp JugadorHumano.cpp Crupier.cpp Mazo.cpp Carta.cpp Mano.cpp -std=c++11
